@@ -25,5 +25,8 @@ You can add options to executable code like this
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
+Task#1: The last movie I saw in theaters was Barbie.
 
-I ate a salad for lunch.
+Task #2: I ate a salad for lunch.
+
+
